@@ -1,2 +1,2 @@
 # Family Recipes
-HTML practice for The Odin Project.
+HTML and CSS practice for The Odin Project.
