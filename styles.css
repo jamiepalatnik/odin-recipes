@@ -9,3 +9,13 @@ body {
 h1 {
     color: #800080;
 }
+
+p, li {
+    font-size: 18px;
+}
+
+img {
+    margin: 20px;
+    border: 5px solid #800080;
+    border-radius: 10px;
+}
